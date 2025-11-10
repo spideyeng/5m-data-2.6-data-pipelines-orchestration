@@ -216,11 +216,24 @@ Configure the following options:
 - `port`: `5432`
 - `user`: *postgres.username*
 
+
+Next, we need to select the table that we need:
+
+```bash
+meltano select tap-postgres "public-resale_flat_prices_from_jan_2017"
+```
+
+Use the following command to list and confirm our selection:
+```bash
+meltano select tap-postgres --list
+```
+
 Test your configuration:
 
 ```bash
 meltano config tap-postgres test
 ```
+
 We will now add a loader to load the data into BigQuery.
 
 ```bash

@@ -5,5 +5,5 @@ output/*.db*
 *.pyc
 __pycache__/
 .env
-*.json
+northern-hope-477909-g9-8ae60ff38b52.json
 meltano.yml

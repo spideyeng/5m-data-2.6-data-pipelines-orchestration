@@ -6,3 +6,4 @@ output/*.db*
 __pycache__/
 .env
 *.json
+meltano.yml

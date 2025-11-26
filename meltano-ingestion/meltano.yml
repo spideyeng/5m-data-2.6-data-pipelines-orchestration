@@ -1,0 +1,35 @@
+version: 1
+default_environment: dev
+project_id: 8f7d4f30-5527-48f2-9de5-8d8854d70da0
+environments:
+- name: dev
+- name: staging
+- name: prod
+plugins:
+  extractors:
+  - name: tap-github
+    variant: meltanolabs
+    pip_url: meltanolabs-tap-github
+    config:
+      repositories:
+      - pandas-dev/pandas
+    select:
+    - releases.tag_name
+    - releases.body
+    - releases.published_at
+  loaders:
+  - name: target-jsonl
+    variant: andyh1203
+    pip_url: target-jsonl
+  - name: target-bigquery
+    variant: z3z1ma
+    pip_url: git+https://github.com/z3z1ma/target-bigquery.git
+    config:
+      credentials_path: 
+        /home/engpookw/5m-data-2.6-data-pipelines-orchestration/northern-hope-477909-g9-8ae60ff38b52.json
+      dataset: ingestion
+      denormalized: true
+      flattening_enabled: true
+      flattening_max_depth: 1
+      method: batch_job
+      project: northern-hope-477909-g9

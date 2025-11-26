@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "northern-hope-477909-g9",
+  "private_key_id": "8ae60ff38b5232aacf5b0f4af61d0bb426e23efc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1cTYs7rKC62h/\noBmEBEFzA/xJW4f8i3dgL4UWAglleLm8Npej5scpjH8kbnYVhDfJTKJiMo7XcxJc\nLhVf4WyK3QmLUmeTr1c/BDoO+zXDIE4CscQ+FNPRUcLCL+nuuWpOB5N+Env7cfPY\ngrhSypx4zvDaTNxtoZhYIaeQx/JZIpvaHrIcCk0T8PgG6b6Y1ul7dyeHTCuX1Gfb\ntQDv8WyAOHU+IEObhV26DM5Kkg5dtFANYDzPXt3fiUrxUiYCnGLQ9kd11DCg9WjK\niGaqaefOvLEQ8cjT8EP90Y835RwaPvo1uKF/zBgTfYOcWdBNAxoPKFgmxoPlRcVv\nw6S68GpPAgMBAAECggEAUwgO+br2OBFQje8PHinwZZjyUAOyFHEiXQMCDVM7R5Na\ns/XrqRbIF4xy9pISOcB64wTN3tAyLAg94683GtyHFnkWkApS2fPIok7l3ss5DCVx\nbaw6GQrg8A5RaRoSHKv/KNwws+XzlNrN80vG3CRaPLK+57d6vDTSCarFCu1lS0JU\nbr9Fh6Zo51ZP2AtIIDD7Z+LvemCozhyaVbzO45XsmxXrJXl0AHkGD8QJt4FMG+Wu\nR9oOynYTFQLZdUOpdOGOYShfQnSCmPBUEdCh8H7ht0oL3QvtBM8E3ADlm7/pKPN1\nDOXRFsbbFXaCOqDnC2Cisu9ssjpTFODY7Ja6LY/gkQKBgQDoSjrQH6Y8rUpvR99S\nuHMVbt7aiC03NUDbKFe3xGlRawKoZwMFIBhvDda/phnlFJiqtXmrh9LjsWDd5cFC\nkwZAhD/44Bk2d5NI4CAXXtucnl72MpP2b/Gys5akBLGE72vJlbjMblL1aGg20z6T\nwz12Q8OHQ1pYdkQDg5DBSf2T6QKBgQDH9lLLuZboXHuA0DjumYYnkvSdBJUs2hnb\nq/z4UI/dAE9P3OetYY/BE2RnKeBylOZlvxRkJ4ESgcJQyleZDtlcRyPr3mX+Tmdz\ndImv650pU1knRg/09GeCuj+vYiuM6rcSnBl9xm9CtZX4/v4L6COaL88bqm/NpeSt\namwJyl7BdwKBgCc1UFQM44xeW7AI26MkyxgVDLyqO6eT74yOdK/qETTS8THnoVTe\nJAGqvlK/AKPwJAy8cPsJBAm2yPjrbQGFu4psSDgD632MFWo5mnEXa8411SWNR/hS\n0OMu+QBaYnRjzTfLc9Pd01bk9qI6adebHua1bW2Jath/rd9B988IZCrxAoGAQeqt\neIMBgC+cduYtHlp1ou4KvQgZtONgys1zYtgL1KqZepYzuTAEF32xB2ECoEL9gGTw\n7+Ml5VfpGoDZR5dhh83bxZFWxfJKoAC2sstUz56uMQgjknhO9wU2oTYXbSiimPvk\nW1Xir3b0rVRBouMveVBxUYlpub0KGTCP1NplShkCgYAa0IWT9KSRZBfPwBbMaU62\nixRHYijLyPXL5l7bYGSp7GWpLy3GW0GWGOi8WRR5p02vbk34/x0R+eD3yOotFDPf\naHiKPL3iyN65AHIRo3xkBzmJs2+gGeuq7QqUNWvhk9bqJiehxzA77yNjEnOhcoYb\nBzVwZ7myCzqlc/rL6NYx2A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-admin@northern-hope-477909-g9.iam.gserviceaccount.com",
+  "client_id": "108007695945280636712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-admin%40northern-hope-477909-g9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

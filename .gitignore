@@ -6,4 +6,3 @@ output/*.db*
 __pycache__/
 .env
 northern-hope-477909-g9-8ae60ff38b52.json
-meltano.yml
